@@ -83,10 +83,3 @@ project/
 
 3. Customize sections or styles as needed
 
----
-
-## 📬 Feedback
-
-Got feedback or suggestions?  
-Feel free to open an issue or reach out!
-
