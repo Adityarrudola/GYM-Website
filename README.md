@@ -53,3 +53,40 @@ This project replicates a modern gym website with multiple sections including fe
 
 ## 📁 Folder Structure
 
+```
+project/
+├── index.html
+├── website.css
+├── responsive.css
+├── script.js
+├── images/
+├── card-images/
+├── section-four-images/
+├── section-five-images/
+├── section-six-images/
+├── grid-images/
+├── grid-icons/
+├── prices-section-images/
+├── footer/
+```
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/yourusername/gymate-website.git
+   ```
+
+2. Open `index.html` in your browser
+
+3. Customize sections or styles as needed
+
+---
+
+## 📬 Feedback
+
+Got feedback or suggestions?  
+Feel free to open an issue or reach out!
+
